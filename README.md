@@ -3,8 +3,6 @@
 
 ## 準備 ( Winrows10 )
 
-※ Docker for Windows が入っている方は手順8までスキップ。
-
 ※ Hyper-Vを利用する想定 (VirtualBoxがいい人は調べてね！)
 
 ### 1. Vagrantをインストールする
